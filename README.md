@@ -1,1 +1,2 @@
-# Python_DeepLearning_N
+# Python_DeepLearning_Notebooks
+This repository is a curated collection of deep learning notebooks. While working as data science interns during spring 2019, various working codes for diverse neural net architectures were crafted. The repository includes Convolutional Neural Networks (CNN), Deep Neural N
